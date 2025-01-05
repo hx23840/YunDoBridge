@@ -1,0 +1,8 @@
+{
+    "openai_api_key": "your_openai_key",
+    "openai_model_endpoint": "your_openai_endpoint",
+    "calls_base_url": "your_cf_calls_url",
+    "calls_app_id": "your_cf_app_id",
+    "calls_app_token": "your_cf_app_token",
+    "port": "8080"
+} 
